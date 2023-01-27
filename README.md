@@ -3,11 +3,11 @@
 <link rel="stylesheet" href="Assets/Styles.css">
 
 <!-- <h1 align="center"><i>Greetings stranger!</i></h1> -->
-<p align="center"><img align="middle" src="Assets/Greetings.gif" width="400px"></p>
+<p align="center"><img align="middle" src="assets/Greetings.png" width="400px"></p>
 
 <p align="center"><i>You look tired, come and rest here by the fire and I will tell you my story...</i></p>
 
-<p align="center"><img align="middle" src="Assets/Campfire.gif" width="250px"></p>
+<p align="center"><img align="middle" src="assets/Campfire.gif" width="250px"></p>
 
 <!-- WIP -->
 My name is Alexander Lundqvist and I am a currently studying the mystical arts of computer science at the great Royal Institute of Technology in the city of Stockholm.
