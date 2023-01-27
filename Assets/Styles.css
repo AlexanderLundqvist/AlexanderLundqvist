@@ -45,10 +45,11 @@ margin: 0 10px;
 
 /* My CSS */
 
-#welcome {
+h1 { 
     font-family: "Luminari", "Trattatello", "Apple Chancery", "cursive";
 }
 
-#youLookTired {
-    font-family: "Apple Chancery", "cursive";
+p { 
+    font-family: "Apple Chancery", "cursive"; 
 }
+
