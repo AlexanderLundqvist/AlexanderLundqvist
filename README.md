@@ -5,7 +5,7 @@
 <!-- <h1 align="center"><i>Greetings stranger!</i></h1> -->
 <p align="center"><img align="middle" src="assets/Greetings.png" width="400px"></p>
 
-<p align="center"><i>You look tired, come and rest here by the fire and I will tell you my story...</i></p>
+<p align="center"><i><b>You look tired, come and rest here by the fire and I will tell you my story...</b></i></p>
 
 <p align="center"><img align="middle" src="assets/Campfire.gif" width="250px"></p>
 
