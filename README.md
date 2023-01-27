@@ -2,7 +2,8 @@
 
 <link rel="stylesheet" href="Assets/Styles.css">
 
-<h1 align="center"><i>Greetings stranger!</i></h1>
+<!-- <h1 align="center"><i>Greetings stranger!</i></h1> -->
+<p align="center"><img align="middle" src="Assets/Greetings.gif" width="400px"></p>
 
 <p align="center"><i>You look tired, come and rest here by the fire and I will tell you my story...</i></p>
 
