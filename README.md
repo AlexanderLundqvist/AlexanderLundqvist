@@ -11,7 +11,3 @@
 
 <!-- WIP -->
 My name is Alexander Lundqvist and I am a currently studying the mystical arts of computer science at the great Royal Institute of Technology in the city of Stockholm.
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=krimreaper&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=krimreaper.krimreaper)
